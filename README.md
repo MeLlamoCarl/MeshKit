@@ -1,3 +1,10 @@
+> **Fork notice:** this is a fork of [EthanLipnik/MeshKit](https://github.com/EthanLipnik/MeshKit)
+> maintained for [MeLlamoCarl/Meshy](https://github.com/MeLlamoCarl/Meshy). The only change is
+> the `RandomColorSwift` dependency, which now points to the upstream
+> [onevcat/RandomColorSwift](https://github.com/onevcat/RandomColorSwift) because
+> `EthanLipnik/RandomColorSwift` no longer exists. All credit for MeshKit goes to Ethan Lipnik;
+> licensed under the MIT License (see `LICENSE.txt`).
+
 # MeshKit
 
 A powerful and easy to use live mesh gradient renderer for iOS.

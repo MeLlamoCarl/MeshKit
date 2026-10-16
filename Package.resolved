@@ -3,19 +3,19 @@
     {
       "identity" : "meshgradient",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/EthanLipnik/MeshGradient.git",
+      "location" : "https://github.com/MeLlamoCarl/MeshGradient.git",
       "state" : {
-        "revision" : "e176a9dc45137a2cc93956e6bf80986b484a284e",
-        "version" : "1.0.9"
+        "revision" : "3d8527894e9d07d85b2a842d31649114d6492d39",
+        "version" : "1.0.10"
       }
     },
     {
       "identity" : "randomcolorswift",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/EthanLipnik/RandomColorSwift.git",
+      "location" : "https://github.com/onevcat/RandomColorSwift.git",
       "state" : {
-        "revision" : "cb118928dfd40baaa31dc1bd87c97599bcf86d75",
-        "version" : "2.0.1"
+        "revision" : "ab01c6eff99f40c5e23ffcb957eb3971f937f106",
+        "version" : "2.0.0"
       }
     }
   ],
